@@ -2,7 +2,7 @@
 
 面向单用户的 FastAPI Web 原型：OpenAI 兼容模型连通检查与聊天、BGE 向量调用、MinerU/MarkItDown 文档解析与批量转换、Milvus 向量检索、MinIO 原件存储、SQLite Token 用量账本。
 
-> 当前为测试阶段版本：`v0.1.0`。
+> 当前为测试阶段版本：`v0.1.0`。English documentation: [README.en.md](README.en.md)
 
 ## 功能概览
 
